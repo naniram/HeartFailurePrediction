@@ -1,2 +1,2 @@
 # HeartFailurePrediction
-Prediction of heart disease using ANN
+Prediction of heart disease using a deep learning technique ANN
